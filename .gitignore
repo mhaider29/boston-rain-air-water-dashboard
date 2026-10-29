@@ -1,0 +1,20 @@
+# Secrets — never upload your API key
+.env
+
+# Python build/cache files (created automatically when code runs)
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editor and Mac system files
+.idea/
+.vscode/
+.DS_Store
+
+# Generated reports (re-create with extra/project_profiling.py)
+extra/*.html

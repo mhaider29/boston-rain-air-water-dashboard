@@ -1,0 +1,9 @@
+panel
+plotly
+pandas
+xarray
+netCDF4
+requests
+python-dotenv
+dask
+scipy
